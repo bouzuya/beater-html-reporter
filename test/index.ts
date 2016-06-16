@@ -1,4 +1,4 @@
-import assert from 'power-assert';
+import * as assert from 'power-assert';
 import beater from 'beater';
 
 const { test } = beater();
